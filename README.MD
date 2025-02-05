@@ -4,7 +4,7 @@
 
 ***Technologies Used***
 
-***Node.js *** - JavaScript runtime environment
+***Node.js*** - JavaScript runtime environment
 
 ***TypeScript*** - Statically typed JavaScript
 
