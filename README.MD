@@ -1,9 +1,9 @@
-#Simple chat bot
+*Simple chat bot*
 **A simple chatbot backend built using Node.js and TypeScript. This project provides a basic API for chatbot interactions and serves responses based on predefined logic.**
 
-##Technologies Used
+***Technologies Used
 
-###Node.js - JavaScript runtime environment
+***Node.js - JavaScript runtime environment
 
 ###TypeScript - Statically typed JavaScript
 
